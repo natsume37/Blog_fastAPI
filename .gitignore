@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# OS 系统文件
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled / Cache
+*.pyc
+*.pyo
+
+# VSCode（如果以后用）
+.vscode/
